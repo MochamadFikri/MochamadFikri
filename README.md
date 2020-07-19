@@ -1,6 +1,6 @@
 ### Halo Semua 👋
 
-Halo, saya Fikri ! seorang Mahasiswa Teknik Informatika Universitas Komputer Indonesia (UNIKOM) yang tertarik pada pemrograman berbasis web, masih agak bingung fokus di Frontend atau Backend.
+Halo, saya Fikri ! seorang Mahasiswa Teknik Informatika Universitas Komputer Indonesia (UNIKOM) yang tertarik pada pemrograman berbasis web khususnya pada bahasa pemrograman php dan javascript, masih agak bingung fokus di Frontend atau Backend.
 
 🌱 Saat ini saya sedang mempelajari Progressive Web Apps
 
